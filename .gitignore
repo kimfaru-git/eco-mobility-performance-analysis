@@ -8,6 +8,3 @@ wheels/
 
 # Virtual environments
 .venv
-
-# Temporary / exploratory data (not part of the project)
-data/_sandbox/
