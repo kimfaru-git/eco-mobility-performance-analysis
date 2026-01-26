@@ -13,11 +13,13 @@
 ---
 
 ## 📂 Project Structure
+```
 eco-mobility-performance-analysis/
 ├─ data/ # CSV 원본 데이터
 ├─ pyproject.toml # Python 환경/패키지 정의
 ├─ uv.lock # 동일한 실행 환경 보장
 └─ README.md # 프로젝트 설명
+```
 
 
 ---
